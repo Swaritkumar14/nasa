@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/nasa/static/js/main.b96bb1f3.chunk.js",
+    "main.js.map": "/nasa/static/js/main.b96bb1f3.chunk.js.map",
+    "runtime-main.js": "/nasa/static/js/runtime-main.b5788349.js",
+    "runtime-main.js.map": "/nasa/static/js/runtime-main.b5788349.js.map",
+    "static/js/2.e2af18ff.chunk.js": "/nasa/static/js/2.e2af18ff.chunk.js",
+    "static/js/2.e2af18ff.chunk.js.map": "/nasa/static/js/2.e2af18ff.chunk.js.map",
+    "index.html": "/nasa/index.html",
+    "static/js/2.e2af18ff.chunk.js.LICENSE.txt": "/nasa/static/js/2.e2af18ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5788349.js",
+    "static/js/2.e2af18ff.chunk.js",
+    "static/js/main.b96bb1f3.chunk.js"
+  ]
+}
